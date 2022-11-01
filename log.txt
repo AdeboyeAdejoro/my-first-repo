@@ -1,0 +1,17 @@
+commit 47d35ae2191d65254b68acf4348a72e3261994c5
+Author: AdeboyeAdejoro <adeboye.adejoro@stud.th-deg.de>
+Date:   Mon Oct 31 12:04:49 2022 +0100
+
+    added gitignore
+
+commit f0cb62cd0b1356134a1c145c96a1a98f27b8f4b3
+Author: AdeboyeAdejoro <adeboye.adejoro@stud.th-deg.de>
+Date:   Mon Oct 31 09:46:59 2022 +0100
+
+    added two files
+
+commit a9dc8342928bbc55a6ebf8d24213ab5faa0412bd
+Author: AdeboyeAdejoro <adeboye.adejoro@stud.th-deg.de>
+Date:   Mon Oct 31 09:36:09 2022 +0100
+
+    added readme.txt
